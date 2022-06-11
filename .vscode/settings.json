@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "dht.h": "c",
+        "sdkconfig.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
